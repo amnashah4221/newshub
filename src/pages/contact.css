@@ -1,0 +1,14 @@
+.contactus{
+    padding-top: 220px;
+    padding-left: 50px;
+    margin-bottom: 5%;
+}
+
+.contact-h{
+    font-family:'Merriweather', serif;
+}
+
+.contact-h .contact-mail{
+    color: gray;
+}
+

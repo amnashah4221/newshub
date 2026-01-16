@@ -1,0 +1,16 @@
+.about{
+    padding-top: 220px;
+    padding-left: 50px;
+    margin-bottom: 5%;
+    text-align: justify;
+    padding-right: 50px;
+}
+
+.about h2{
+    font-weight: bold;
+    font-family:'Merriweather', serif;
+}
+
+.about p{
+    font-family: 'Open Sans', sans-serif;
+}

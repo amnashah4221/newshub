@@ -1,0 +1,10 @@
+[
+  { "name": "Lahore", "country": "Pakistan" },
+  { "name": "Karachi", "country": "Pakistan" },
+  { "name": "Islamabad", "country": "Pakistan" },
+  { "name": "Faisalabad", "country": "Pakistan" },
+  { "name": "Peshawar", "country": "Pakistan" },
+  { "name": "Quetta", "country": "Pakistan" },
+  { "name": "Multan", "country": "Pakistan" }
+
+]

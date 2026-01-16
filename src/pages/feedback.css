@@ -1,0 +1,23 @@
+.feedback{
+    padding-top: 220px;
+    padding-left: 50px;
+    margin-bottom: 5%;
+}
+
+.feedback-h{
+    font-family:'Merriweather', serif;
+}
+
+.feedback-h .feed-mail{
+    color: gray;
+}
+
+.feedback-p{
+font-family:'Merriweather', serif;
+display: flex;
+gap: 10px;
+}
+
+.feedback-p h5{
+    font-weight: bolder;
+}

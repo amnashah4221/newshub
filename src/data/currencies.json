@@ -1,0 +1,14 @@
+[
+  { "code": "USD", "name": "US Dollar", "img": "/us.webp" },
+  { "code": "SAR", "name": "Saudi Riyal", "img": "/sa.webp" },
+  { "code": "AED", "name": "UAE Dirham", "img": "/uae.png" },
+  { "code": "AUD", "name": "Australian Dollar", "img": "/au.webp" },
+  { "code": "GBP", "name": "UK Pound", "img": "/gb.webp" },
+  { "code": "CAD", "name": "Canadian Dollar", "img": "/ca.webp" },
+  { "code": "JPY", "name": "Japanese Yen", "img": "/jp.webp" },
+  { "code": "CNY", "name": "China Yuan", "img": "/cn.webp" },
+  { "code": "BHD", "name": "Bahrain Dinar", "img": "/bh.webp" },
+  { "code": "KWD", "name": "Kuwaiti Dinar", "img": "/kw.webp" },
+  { "code": "INR", "name": "Indian Rupee", "img": "/in.webp" },
+  { "code": "QAR", "name": "Qatari Riyal", "img": "/qa.webp" }
+]

@@ -1,0 +1,59 @@
+.privacypage{
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-bottom: 5%;
+    text-align: justify;
+    padding-top: 220px;
+}
+
+.privacypage h1, h2, h3, h4, h5, h6{
+    font-family:'Merriweather', serif;
+    font-weight: 550;
+}
+
+.privacypage p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.privacypage li::marker{
+    font-size: 28px;
+    font-family:'Merriweather', serif;
+    font-weight: 550;
+}
+
+.privacypage ul{
+    list-style-type:disc;
+}
+
+.u-list p, .u-list h5{
+    display: inline;
+}
+
+.privacy-mail{
+    display: flex;
+    gap: 5px;
+    margin-top: 10px;
+}
+
+.privacy-address{
+    display: flex;
+    gap: 5px;
+    margin-top: -12px;
+}
+
+.back-btn{
+    margin-bottom: 25px;
+    border: none;
+    background-color: white;
+    font-size: 18px;
+    color: gray;
+    font-weight: 550;
+    padding: 5px 10px;
+    border-radius: 12px;
+}
+
+.back-btn:hover{
+    color: rgb(35, 35, 37);
+    background-color: rgb(208, 208, 208);
+    
+}

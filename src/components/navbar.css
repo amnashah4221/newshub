@@ -1,0 +1,37 @@
+.head-1{
+    background-color: rgb(35, 35, 37);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.head1-link{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(212, 210, 210);
+}
+
+.head-1-con{
+    justify-content: center;
+}
+
+.head1-link:hover{
+    color: white;
+}
+.head-2{
+  font-family:'Open Sans', sans-serif;
+}
+
+.head-2-con{
+    justify-content: right;
+}
+.navlink{
+    color: rgb(35, 35, 37);
+    border-right: 1px solid #dedede;
+}
+
+.navlink:hover{
+    color:red;
+}
+.navlink:last-child{
+    border-left: none;
+    border-right: none;
+}
