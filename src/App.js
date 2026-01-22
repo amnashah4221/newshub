@@ -26,6 +26,7 @@ function App() {
         <Route path="/goldrates" element={<Goldrates/>}/>
         <Route path="/currencyexchange" element={<Currencypage/>}/>
         <Route path="/prayertimings" element={<Prayertimings/>}/>
+        <Route path="/:category" element={<Home/>}/>
       </Routes>
     </BrowserRouter>
   );

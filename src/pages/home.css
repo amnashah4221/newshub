@@ -1,0 +1,53 @@
+.homepage{
+      padding-top: 220px;
+    padding-left: 50px;
+    margin-bottom: 5%;
+    display: flex;
+    flex-direction: row;
+}
+
+.left-side{
+    display: flex;
+    flex-direction: column;
+}
+
+.right-side{
+    display: flex;
+    flex-direction: column;
+}
+
+.homepage h1, h2, h3, h4, h5, h6{
+    font-family: 'Merriweather', serif;
+}
+
+.homepage p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.homepage .trending span{
+    text-align: left;
+    width: 60px;
+}
+
+.hot-topics {
+  display: flex;
+  flex-direction: row; 
+  flex-wrap: wrap;    /* allows wrapping to next line if needed */
+  gap: 10px;        
+  width: 100%;    /* spacing between badges */
+  margin-bottom: 20px;  /* optional spacing from next section */
+}
+
+/* Each badge */
+.hot-topics .badge {
+ width: 100%;
+  display: inline-block;
+  padding: 10px 12px;
+  border-radius: 20px;
+  background-color: #2d2f3a;
+  color: #fff;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: center;    /* Text ko darmiyan mein karne ke liye */
+  border: none;
+}
