@@ -1,70 +1,115 @@
-# Getting Started with Create React App
+📰 NewsHub
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+NewsHub is a dynamic and responsive news web application built with React.
+It provides real-time news updates along with essential daily information such as currency exchange rates, gold rates, and prayer timings.
 
-## Available Scripts
+The project demonstrates API integration, real-time data fetching, reusable components, and responsive UI design.
 
-In the project directory, you can run:
+🚀 Features
+📰 News Section
 
-### `npm start`
+Live Top Headlines
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+News displayed by categories
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+News cards include:
 
-### `npm test`
+Image
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Title
 
-### `npm run build`
+Description
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Category
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Published Date
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Source Link
 
-### `npm run eject`
+💱 Currency Exchange Rates
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Live currency rates (USD, GBP, EUR, etc.)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Updated dynamically using API
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+🪙 Gold Rates
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Latest gold price updates
 
-## Learn More
+Real-time data display
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+🕌 Namaz Timings
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Daily prayer timings
 
-### Code Splitting
+Automatically fetched using API
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Clean and readable layout
 
-### Analyzing the Bundle Size
+📱 Responsive Design
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Row-based news layout
 
-### Making a Progressive Web App
+Mobile-friendly interface
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Clean UI structure
 
-### Advanced Configuration
+🛠 Tech Stack
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+React.js
 
-### Deployment
+JavaScript (ES6+)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+CSS3 (Flexbox / Grid)
 
-### `npm run build` fails to minify
+React Router
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+REST APIs (News, Currency, Gold, Prayer Timings)
+
+BootStrap
+
+
+🔌 APIs Used
+
+News API (for headlines and category news) - Gnews API
+
+Currency Exchange API - Open.er API
+
+Gold Rate API - CoinBase API
+
+Prayer Timings API - Aladhan API
+
+All data is fetched dynamically using useEffect and stored using useState.
+
+💻 Installation & Setup
+
+1️⃣ Clone the repository
+
+git clone https://github.com/your-username/NewsHub.git
+
+
+2️⃣ Navigate to the project folder
+
+cd NewsHub
+
+
+3️⃣ Install dependencies
+
+npm install
+
+
+4️⃣ Run the development server
+
+npm start
+
+
+App will run on:
+
+http://localhost:3000
+
+
+👩‍💻 Author
+
+Amna Shah
+BS Computer Science
+COMSATS University Islamabad, Lahore Campus
