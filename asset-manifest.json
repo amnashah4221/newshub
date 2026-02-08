@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NewsHub/static/css/main.2b88fd03.css",
+    "main.js": "/NewsHub/static/js/main.9cce76a4.js",
+    "static/js/453.49c13d3b.chunk.js": "/NewsHub/static/js/453.49c13d3b.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/NewsHub/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/NewsHub/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/NewsHub/index.html",
+    "main.2b88fd03.css.map": "/NewsHub/static/css/main.2b88fd03.css.map",
+    "main.9cce76a4.js.map": "/NewsHub/static/js/main.9cce76a4.js.map",
+    "453.49c13d3b.chunk.js.map": "/NewsHub/static/js/453.49c13d3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b88fd03.css",
+    "static/js/main.9cce76a4.js"
+  ]
+}
